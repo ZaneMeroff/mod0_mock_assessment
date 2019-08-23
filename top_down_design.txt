@@ -1,0 +1,15 @@
+Doing Laundry
+
+1. Gather Dirty Clothes
+  1.1 Collect All Clothes That One Wishes to Washing
+    1.1.1 place all dirty clothes into a single vessel
+    1.1.2 physically move vessel of dirty clothes next to washing machine
+2. Locate Washing Machine
+  2.1 Open Lid to Washing Machine
+  2.2 Move Dirty Clothes from the vessel they are currently in to inside the drum of the washing Machine
+
+3. Locate Washing Machine Detergent
+  3.1 Open Cap to Container of Detergent
+  3.2 Locate Measuring Cup for Detergent
+  3.3 Pour Desired amount of Contents of Detergent Container into Measuring Cup
+    3.3.1 pick up detergent container with your hand
