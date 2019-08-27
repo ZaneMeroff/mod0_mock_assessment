@@ -1,0 +1,19 @@
+// Class: Dog //
+
+Attributes
+1. name (string)
+2. dogLocation (integer)
+4. energyLevel (integer)
+5. fullStomach (boolean)
+6. stomachContents (integer)
+6. leash (boolean)
+7. happinessLevel (integer)
+8. dogIsClean (boolean)
+9. dogIsDirty (boolean)
+
+Methods
+1. walk (if Leash returns true, then run)(reduce energy level by 25%)
+2. feed (if fullStomach returns false, then run)(increase stomachContents to 100%)(make fullStomach true)
+3. callDogToCome (uses name attribute)(changes dogLocation)
+4. pet (increases energyLevel by 25%)(increases happinessLevel by 25%)
+5. bathe (if dogIsDirty returns true, then run)(make dogIsClean true)(make dogIsDirty false)

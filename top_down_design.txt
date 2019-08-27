@@ -1,26 +1,25 @@
 // Doing Laundry //
-TESTING
 1. Gather Dirty Clothes
-  1.1 Collect All Clothes That One Wishes to Washing
-    1.1.1 place all dirty clothes into a single vessel
-    1.1.2 physically move vessel of dirty clothes next to washing machine
-
-2. Locate Washing Machine
-  2.1 Open Lid to Washing Machine
-  2.2 Move Dirty Clothes from the vessel they are currently in to inside the drum of the washing Machine
-  2.3 Pour Contents of Measuring Cup on top of Clothes in Washing Machine drum
-    2.3.1 pick up measuring cup
-  2.4 Close Lid of Washing machine
-    2.4.1 use your hand to grab hold of the washing machine lid and lower it
-  2.5 Start Washing Cycle
-    2.5.1 turn dial of washing machine to desired wash mode
-      2.5.1.1 use your hand to physically turn dial on washing machine
-        2.5.1.1.1 power on washing machine
-          2.5.1.1.1.1 use your hand to turn on power button of washing machine
-
-
-3. Locate Washing Machine Detergent
-  3.1 Open Cap to Container of Detergent
-  3.2 Locate Measuring Cup for Detergent
-  3.3 Pour Desired amount of Contents of Detergent Container into Measuring Cup
-    3.3.1 pick up detergent container with your hands
+  1.1 use hands to physically move vessel of dirty clothes next to washing machine
+  1.2 use hand to place all dirty clothes into a single vessel
+      1.2.1 collect all clothes that one wishes to wash
+2. Start Washing Cycle
+  2.1 turn dial of washing machine to desired wash mode
+    2.1.1 use your hand to physically turn dial on washing machine
+  2.2 pick up measuring cup
+    2.2.1 pour contents of measuring cup on top of clothes in washing machine drum
+  2.3 close lid of washing machine
+    2.3.1 use your hand to grab hold of the washing machine lid and lower it
+  2.4 move dirty clothes from the vessel they are currently in to inside the drum of the washing machine
+  2.5 open lid to washing machine
+    2.5.1 use your hand to grab hold of the washing machine lid and lift it open
+  2.6 power on washing machine
+    2.6.1 use your hand to turn on power button of washing machine
+  2.7 locate washing machine
+3. Ready Washing Machine Detergent
+  3.1 use hands to physically move measuring cup of detergent next to washing machine
+  3.2 pour desired amount of detergent into measuring cup
+    3.2.1 pick up detergent container with your hands
+  3.3 open cap to container of detergent
+   3.3.1 locate container of detergent
+  3.4 locate measuring cup for detergent
