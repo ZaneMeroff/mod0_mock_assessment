@@ -1,6 +1,15 @@
 // Dog Instances //
 
-1. Golden Retriever
+1. name: 'Fluffy'         (string)
+2. dogLocation: 0238      (integer)
+4. energyLevel: 07        (integer)
+5. fullStomach: false     (boolean)
+6. stomachContents: 08    (integer)
+6. leash: true            (boolean)
+7. happinessLevel: 07     (integer)
+8. dogIsClean: true       (boolean)
+9. dogIsDirty: false      (boolean)
+
 2. Pug
 3. Shih Tzu
 4. French Bull Dog
